@@ -6,3 +6,4 @@ openai
 websockets
 deepgram-sdk
 elevenlabs==1.3.0
+python-multipart
