@@ -5,6 +5,4 @@ pydantic
 openai
 websockets
 deepgram-sdk
-elevenlabs
-python-multipart
-requests
+elevenlabs==1.3.0
